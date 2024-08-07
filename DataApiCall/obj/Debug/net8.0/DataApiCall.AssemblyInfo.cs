@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DataApiCall")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56cd637367e80837e2c0a73506477a6622962a88")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab1e337924c172ea7312bc2fea31c51a439dc0c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("DataApiCall")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DataApiCall")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

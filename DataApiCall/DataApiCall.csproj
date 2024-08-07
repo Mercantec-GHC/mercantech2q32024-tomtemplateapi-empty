@@ -7,4 +7,9 @@
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Blazor-ApexCharts" Version="3.4.0" />
+    <PackageReference Include="Blazor.Bootstrap" Version="3.0.0-preview.3" />
+  </ItemGroup>
+
 </Project>

@@ -28,3 +28,17 @@
 /home/reuter/projects/csharp/tomtemplateapi-Jhm20P/DataApiCall/obj/Debug/net8.0/DataApiCall.pdb
 /home/reuter/projects/csharp/tomtemplateapi-Jhm20P/DataApiCall/obj/Debug/net8.0/DataApiCall.genruntimeconfig.cache
 /home/reuter/projects/csharp/tomtemplateapi-Jhm20P/DataApiCall/obj/Debug/net8.0/ref/DataApiCall.dll
+/home/reuter/projects/csharp/tomtemplateapi-Jhm20P/DataApiCall/bin/Debug/net8.0/BlazorBootstrap.dll
+/home/reuter/projects/csharp/tomtemplateapi-Jhm20P/DataApiCall/bin/Debug/net8.0/Microsoft.AspNetCore.Authorization.dll
+/home/reuter/projects/csharp/tomtemplateapi-Jhm20P/DataApiCall/bin/Debug/net8.0/Microsoft.AspNetCore.Components.dll
+/home/reuter/projects/csharp/tomtemplateapi-Jhm20P/DataApiCall/bin/Debug/net8.0/Microsoft.AspNetCore.Components.Forms.dll
+/home/reuter/projects/csharp/tomtemplateapi-Jhm20P/DataApiCall/bin/Debug/net8.0/Microsoft.AspNetCore.Components.Web.dll
+/home/reuter/projects/csharp/tomtemplateapi-Jhm20P/DataApiCall/bin/Debug/net8.0/Microsoft.AspNetCore.Metadata.dll
+/home/reuter/projects/csharp/tomtemplateapi-Jhm20P/DataApiCall/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/reuter/projects/csharp/tomtemplateapi-Jhm20P/DataApiCall/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/reuter/projects/csharp/tomtemplateapi-Jhm20P/DataApiCall/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/home/reuter/projects/csharp/tomtemplateapi-Jhm20P/DataApiCall/bin/Debug/net8.0/Microsoft.JSInterop.dll
+/home/reuter/projects/csharp/tomtemplateapi-Jhm20P/DataApiCall/obj/Debug/net8.0/DataApiCall.csproj.AssemblyReference.cache
+/home/reuter/projects/csharp/tomtemplateapi-Jhm20P/DataApiCall/obj/Debug/net8.0/scopedcss/Components/Pages/Benzin.razor.rz.scp.css
+/home/reuter/projects/csharp/tomtemplateapi-Jhm20P/DataApiCall/obj/Debug/net8.0/DataApiC.EC3A4086.Up2Date
+/home/reuter/projects/csharp/tomtemplateapi-Jhm20P/DataApiCall/bin/Debug/net8.0/Blazor-ApexCharts.dll

@@ -1,8 +1,24 @@
 {
   "version": 2,
-  "dgSpecHash": "ID6k7eSsCtHoGowz6BfA2E1z42Bf4hG0h/q7HYElSyeHnBUGu+kCS7xq8Aa/Umky56wI7lvI8wcmnB9NMlUBJg==",
+  "dgSpecHash": "19VvHMsQ8xNE3PEpNSidILAzS5CO12brdKjIjlIjsY/2emGihB0RwypgKaIh+NjX+HS01bq3/WulPxVrG5qZ5Q==",
   "success": true,
   "projectFilePath": "/home/reuter/projects/csharp/tomtemplateapi-Jhm20P/DataApiCall/DataApiCall.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/reuter/.nuget/packages/blazor-apexcharts/3.4.0/blazor-apexcharts.3.4.0.nupkg.sha512",
+    "/home/reuter/.nuget/packages/blazor.bootstrap/3.0.0-preview.3/blazor.bootstrap.3.0.0-preview.3.nupkg.sha512",
+    "/home/reuter/.nuget/packages/microsoft.aspnetcore.authorization/8.0.4/microsoft.aspnetcore.authorization.8.0.4.nupkg.sha512",
+    "/home/reuter/.nuget/packages/microsoft.aspnetcore.components/8.0.4/microsoft.aspnetcore.components.8.0.4.nupkg.sha512",
+    "/home/reuter/.nuget/packages/microsoft.aspnetcore.components.analyzers/8.0.4/microsoft.aspnetcore.components.analyzers.8.0.4.nupkg.sha512",
+    "/home/reuter/.nuget/packages/microsoft.aspnetcore.components.forms/8.0.4/microsoft.aspnetcore.components.forms.8.0.4.nupkg.sha512",
+    "/home/reuter/.nuget/packages/microsoft.aspnetcore.components.web/8.0.4/microsoft.aspnetcore.components.web.8.0.4.nupkg.sha512",
+    "/home/reuter/.nuget/packages/microsoft.aspnetcore.metadata/8.0.4/microsoft.aspnetcore.metadata.8.0.4.nupkg.sha512",
+    "/home/reuter/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/home/reuter/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.1/microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "/home/reuter/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.1/microsoft.extensions.logging.abstractions.8.0.1.nupkg.sha512",
+    "/home/reuter/.nuget/packages/microsoft.extensions.options/8.0.2/microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "/home/reuter/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/home/reuter/.nuget/packages/microsoft.jsinterop/8.0.4/microsoft.jsinterop.8.0.4.nupkg.sha512",
+    "/home/reuter/.nuget/packages/system.io.pipelines/8.0.0/system.io.pipelines.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
